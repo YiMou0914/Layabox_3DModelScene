@@ -1,0 +1,8 @@
+{
+	"front":"panorama_PositiveZ.png",
+	"back":"panorama_NegativeZ.png",
+	"left":"panorama_PositiveX.png",
+	"right":"panorama_NegativeX.png",
+	"up":"panorama_PositiveY.png",
+	"down":"panorama_NegativeY.png"
+}

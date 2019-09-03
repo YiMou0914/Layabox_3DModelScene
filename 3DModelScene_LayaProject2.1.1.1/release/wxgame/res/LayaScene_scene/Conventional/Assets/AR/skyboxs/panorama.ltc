@@ -1,0 +1,8 @@
+{
+	"front":"panorama.front.jpg",
+	"back":"panorama.back.jpg",
+	"left":"panorama.right.jpg",
+	"right":"panorama.left.jpg",
+	"up":"panorama.top.jpg",
+	"down":"panorama.bottom.jpg"
+}
